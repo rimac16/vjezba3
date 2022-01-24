@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html lang="hr">
+	<head>
+		<title>24 sata</title>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="author" content="Tadija Rimac">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+	</head>
+<body>
+	<h1></h1>
+	<h2>Sport</h2>
+	<p>Bjelica: Bočkaj se odrekao 30 posto od transfera, a mi smo htjeli dovesti Špikića i Lovrića</p>
+	<figure id="figure_1">
+		<a href="images/Bjelica.jpg" target="_blank"><img src="images/Bjelica.jpg" height="250" alt="slika 1 Bjelica" title="Bjelica"></a>
+		<figcaption>Slika jedan prikazuje nogometnog trenera</figcaption>
+	</figure>
+	<p>Barcelona ne može registrirati Torresa, Bjelica doveo napadača</p>
+	<figure id="figure_2">
+		<a href="https://img.24sata.hr/GHVT6qD_GQkFarBp5B-yC5osVyM=/1243x700/smart/media/images/2022-01/pxl-reu-030122-91336285.jpg" target="_blank"><img src="https://img.24sata.hr/GHVT6qD_GQkFarBp5B-yC5osVyM=/1243x700/smart/media/images/2022-01/pxl-reu-030122-91336285.jpg" height="250" alt="slika 2 Barcelona" title="Barcelona"></a>
+		<figcaption>Slika dva prikazuje nogometnog igraca</figcaption>
+	</figure>
+</body>
+</html>
